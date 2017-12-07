@@ -1,2 +1,2 @@
 # hello-world
-hi world! starting on my journey of self study and enhance my data science skills. wish me luck! 
+hi world! making my first branch. it's pretty cool so far.
